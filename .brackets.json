@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/gowinsja/Downloads/Ionic/conFusion/www/lib/ionic/js/ionic.min.js",
+        "/Users/gowinsja/Downloads/Ionic/conFusion/www/controllers.js",
+        "/Users/gowinsja/Downloads/Ionic/conFusion/www/lib/ionic/js/ionic.js"
+    ]
+}
