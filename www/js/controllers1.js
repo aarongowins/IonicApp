@@ -10,6 +10,7 @@ angular.module('conFusion.controllers', [])
     // listen for the $ionicView.enter event:
     //$scope.$on('$ionicView.enter', function(e) {
     //});
+    
     $scope.reservation = {};
 
     // Create the reserve modal that we will use later
